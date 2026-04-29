@@ -19,5 +19,19 @@
     "title": "James",
     "section": "Experience",
     "text": "Experience\nWorkplace | Job title | April 20XX - present"
+  },
+  {
+    "objectID": "newpage1.html",
+    "href": "newpage1.html",
+    "title": "newpage1",
+    "section": "",
+    "text": "helllooooo"
+  },
+  {
+    "objectID": "newpage1.html#section",
+    "href": "newpage1.html#section",
+    "title": "newpage1",
+    "section": "",
+    "text": "helllooooo"
   }
 ]

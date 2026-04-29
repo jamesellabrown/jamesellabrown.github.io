@@ -7,10 +7,12 @@ website:
   search: false
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
   page-footer: "Made with ❤️ and Quarto"
-  navbar:
+  navbar: 
     right:
       - text: Home
         href: index.qmd
+      - text: newpage1
+        href: newpage1.qmd
     tools: 
       - icon: github
         text: Github
